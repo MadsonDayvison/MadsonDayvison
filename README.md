@@ -3,7 +3,6 @@ Analista de Dados | BI | Power BI | SQL | Analytics
 
 Pós-graduando em Análise de Dados, com forte interesse nas áreas de Business Intelligence, Data Analytics e tomada de decisão orientada por dados. Tenho dedicação contínua para aplicar o poder dos dados na solução de problemas reais e no apoio a estratégias de negócio, integrando análise técnica com visão de impacto comercial. Com uma trajetória diversificada que combina formação técnica, projeto em BI, análise de performance e experiência em contextos de atendimento e indicadores, integrando tecnologias, negócios e pessoas
 
---
 
 ##   Meus principais projetos (em construção)
 
@@ -11,7 +10,6 @@ Pós-graduando em Análise de Dados, com forte interesse nas áreas de Business 
 Dashboard Power BI com previsão de revisão, indicadores de eficiência e narrativa executiva.  
 👉 https://github.com/MadsonDayvison/Frota-km-analytics
 
----
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -48,7 +46,6 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
     src="https://raw.githubusercontent.com/aleen42/badges/master/src/excel.png" 
 />
 
-<br>
 <br>
 
 ## 📩 Vamos conversar?  
