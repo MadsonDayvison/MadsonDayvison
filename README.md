@@ -45,7 +45,7 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
     title="Excel"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" 
+    src="https://raw.githubusercontent.com/aleen42/badges/master/src/excel.png" 
 />
 
 <br>
