@@ -45,9 +45,8 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/aleen42/badges/master/src/excel.png" 
 />
-
 <br>
-
+<br>
 
 ## 📩 Vamos conversar?  
 📌 LinkedIn: **www.linkedin.com/in/madson-dayvison**
