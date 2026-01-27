@@ -5,7 +5,7 @@ Pós-graduando em Análise de Dados, com forte interesse nas áreas de Business 
 
 ---
 
-## 🌟 Meus principais projetos (em construção)
+##   Meus principais projetos (em construção)
 
 ### 🔶 **Análise de Quilometragem e Eficiência Veicular**
 Dashboard Power BI com previsão de revisão, indicadores de eficiência e narrativa executiva.  
@@ -13,7 +13,7 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -45,7 +45,7 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
     title="Excel"
     width="20px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftexcel/microsoftexcel-plain.svg" 
 />
 <br>
 <br>
