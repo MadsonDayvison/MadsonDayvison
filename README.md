@@ -25,13 +25,30 @@ Dashboard Power BI com previsão de revisão, indicadores de eficiência e narra
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> 
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/raw/main/SVG/Power-BI.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" 
+/>
+<br>
+<br>
 ---
 
 ## 📩 Vamos conversar?  
