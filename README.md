@@ -10,6 +10,9 @@ Pós-graduando em Análise de Dados, com forte interesse nas áreas de Business 
 Dashboard Power BI com previsão de revisão, indicadores de eficiência e narrativa executiva.  
 👉 https://github.com/MadsonDayvison/Frota-km-analytics
 
+### 🔶 **Monitoramento de Orçamento e Execução Financeira**
+Visualização completa do gasto real vs previsto, rankings e tendência de consumo.
+👉 https://github.com/MadsonDayvison/gestao-orcamentaria-analytics
 
 ## 🤖 Linguagens e Tecnologias
 
